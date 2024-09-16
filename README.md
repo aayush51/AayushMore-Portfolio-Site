@@ -2,7 +2,7 @@
 # Hi, I'm Aayush! 👋
 
 ## 🚀 About Me
-I'm a Web developer...
+I'm a Full Stack Java developer...
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://aayushm.me/Aayush-More/)
