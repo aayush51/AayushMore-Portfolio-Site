@@ -7,7 +7,7 @@ I'm a Full Stack Java developer...
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://aayushm.me/Portfolio_Aayush/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush51/)
-[![Resume](https://img.shields.io/badge/resume?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/17xP62JaFpP8d2JnawPmYo1sFYbKTRxwM/view)
+[![Resume](https://img.shields.io/badge/resume-passing?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/17xP62JaFpP8d2JnawPmYo1sFYbKTRxwM/view)
 
 ## 🛠 Skills
 Core Java, HTML, CSS, Javascript, React.js , Bootstrap
